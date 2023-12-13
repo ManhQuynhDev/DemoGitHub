@@ -22,5 +22,6 @@ class SecondActivity : AppCompatActivity() {
         bundle.putSerializable("key", car)
         intent.putExtras(bundle)
         startActivity(intent)
+        //My name is Quynh
     }
 }
