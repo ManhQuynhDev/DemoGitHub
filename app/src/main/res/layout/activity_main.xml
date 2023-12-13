@@ -6,11 +6,13 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:padding="10dp"
+    android:background="#00BCD4"
     android:orientation="vertical"
     tools:context=".MainActivity">
     <TextView
         android:textSize="30sp"
         android:textStyle="bold"
+        android:textColor="@color/white"
         android:gravity="center_horizontal"
         android:text="Login"
         android:layout_width="match_parent"
