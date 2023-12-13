@@ -23,5 +23,6 @@ class SecondActivity : AppCompatActivity() {
         intent.putExtras(bundle)
         startActivity(intent)
         //Quynhlm.dev đang ở đây
+        //Quynhlm.dev đang ở đây
     }
 }
