@@ -24,5 +24,7 @@ class SecondActivity : AppCompatActivity() {
         startActivity(intent)
         //Quynhlm.dev đang ở đây
         //Quynhlm.dev đang ở đây
+        //My name is Quynh
+        //My name is Quynh
     }
 }
