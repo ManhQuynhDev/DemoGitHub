@@ -22,9 +22,5 @@ class SecondActivity : AppCompatActivity() {
         bundle.putSerializable("key", car)
         intent.putExtras(bundle)
         startActivity(intent)
-        //Quynhlm.dev đang ở đây
-        //Quynhlm.dev đang ở đây
-        //My name is Quynh
-        //My name is Quynh
     }
 }
