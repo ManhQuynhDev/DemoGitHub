@@ -22,5 +22,6 @@ class SecondActivity : AppCompatActivity() {
         bundle.putSerializable("key", car)
         intent.putExtras(bundle)
         startActivity(intent)
+        //Quynhlm.dev đang ở đây
     }
 }
