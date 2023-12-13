@@ -23,5 +23,6 @@ class SecondActivity : AppCompatActivity() {
         intent.putExtras(bundle)
         startActivity(intent)
         //My name is Quynh
+        //My name is Quynh
     }
 }
